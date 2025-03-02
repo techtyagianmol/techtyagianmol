@@ -58,18 +58,11 @@ Here are some stats about my GitHub contributions and activity:
 ---
 
 ## 🚀 Technologies I work with:
-- **Frontend**: React.js, Redux, Next.js, HTML5, CSS3, SASS, TailwindCSS
-- **Backend**: Node.js, Express.js, MongoDB, GraphQL, Firebase
-- **Tools**: Git, Docker, Jest, Webpack, Babel
-- **CI/CD**: Jenkins, GitHub Actions
+- **Frontend**: React.js, Redux, HTML5, CSS3, TailwindCSS
+- **Backend**: Node.js, Express.js, MongoDB,
+- **Tools**: Git,
 
 ---
 
-## 🔗 Connect with me:
-- [GitHub](https://github.com/techtyagianmol)
-- [LinkedIn](https://linkedin.com/in/techtyagianmol)
-- [Twitter](https://twitter.com/techtyagianmol)
-
----
 
 
