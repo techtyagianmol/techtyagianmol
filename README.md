@@ -1,4 +1,4 @@
-![Header](https://dummyimage.com/1200x400/000/fff&text=Full+Stack+Developer+MERN+Stack)
+![Header](./github-header-image.png)
 
 # 👋 Hi there, I'm Techtyagianmol
 
