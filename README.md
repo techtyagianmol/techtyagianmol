@@ -29,13 +29,6 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a stron
 - Best practices for JavaScript and React.
 - How to structure large-scale applications with Node.js.
   
-## 📫 How to reach me:
-- Email: techtyagianmol@example.com
-- LinkedIn: [linkedin.com/in/techtyagianmol](https://linkedin.com/in/techtyagianmol)
-- Twitter: [@techtyagianmol](https://twitter.com/techtyagianmol)
-
-## 😄 Pronouns:
-- He/Him
 
 ## ⚡ Fun fact:
 - I’m always excited about learning new tech, but I also love taking breaks with a good video game or podcast!
